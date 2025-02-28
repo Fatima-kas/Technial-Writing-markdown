@@ -7,7 +7,13 @@
 ###### Heading 6
 **BOLD**
 *Italic*
+
+![Uploading header.jpg…]()
+
 ***Bold+italic***
+
+![ales-krivec-N-aTikX-b00-unsplash](https://github.com/user-attachments/assets/ac0b8a61-df65-460a-96a6-409fc82e6be0)
+
 - hi
 1. hi
 2. hello
